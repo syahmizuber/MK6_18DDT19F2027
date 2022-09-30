@@ -1,0 +1,10 @@
+
+div  h, p {
+    text-align: center;
+    color: goldenrod;
+}
+
+div + p { 
+    text-align: center; 
+   
+}
